@@ -1,0 +1,43 @@
+//console.log("HelloWorld");
+
+//let myage = 85;
+//console.log(myage);
+//myage = myage + 2;
+
+//let username = "Alex";
+
+//console.log("Welcome to the world of Java" + " " + username);
+
+//var MyAge = 90;
+//console.log(MyAge);
+//MyAge = MyAge + 2;
+//console.log(MyAge);
+//MyAge = MyAge - 4;
+//console.log(MyAge);
+
+//let myage = 28;
+//console.log(myage);
+//myage = myage / 5;
+//console.log(myage);
+//myage = myage * 8;
+//console.log(myage);
+
+//let myage = 7;
+//myage -= 8
+//console.log("my age is: " + myage);
+
+//let A = 8;
+//A += 20
+//console.log("he is " + A + " years old");
+    
+let myPet = "Dog";
+console.log(myPet);
+
+let petName = "Rex";
+console.log(petName);
+
+
+let petAge = 6;
+petAge += 2;
+console.log("I have a " + myPet + " called " + petName + " who is " + petAge + " years old");
+console.log(`I have a ${myPet} called ${petName} who is ${petAge} years old`);
